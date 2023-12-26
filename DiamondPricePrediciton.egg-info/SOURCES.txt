@@ -1,7 +1,0 @@
-setup.py
-DiamondPricePrediciton.egg-info/PKG-INFO
-DiamondPricePrediciton.egg-info/SOURCES.txt
-DiamondPricePrediciton.egg-info/dependency_links.txt
-DiamondPricePrediciton.egg-info/requires.txt
-DiamondPricePrediciton.egg-info/top_level.txt
-src/__init__.py
